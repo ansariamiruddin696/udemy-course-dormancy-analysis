@@ -1,0 +1,13 @@
+dormancy_status,job_class,count,avg_score,avg_subs
+Active,JC-2 Standard,128,0.06,20473.8
+Active,JC-3 Basic,1097,0.83,2035.89
+Active,JC-4 Freemium,131,1.22,1757.47
+At Risk,JC-3 Basic,676,31.08,70.35
+At Risk,JC-4 Freemium,19,30.05,347.26
+Critically Inactive,JC-3 Basic,387,48.25,43.91
+Critically Inactive,JC-4 Freemium,9,49.44,206.56
+Fully Dormant,JC-3 Basic,448,84.2,2.5
+Fully Dormant,JC-4 Freemium,10,71.0,32.0
+Low Engagement,JC-2 Standard,7,11.43,13988.0
+Low Engagement,JC-3 Basic,563,14.59,488.06
+Low Engagement,JC-4 Freemium,40,15.38,623.52
